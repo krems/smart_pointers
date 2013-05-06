@@ -1,4 +1,5 @@
-// Author: Valeriy Ovchinnikov
+// Author: Krems
+
 #include <iostream>
 
 using std::cout;
